@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+}
+
+.menu{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0;
+  gap: 12px;
+}
+.navbar{
+display: flex;
+  flex-direction: row;
+  gap: 32px;
+}
+.logo{
+padding: 12px 0 18px 0;
+}
